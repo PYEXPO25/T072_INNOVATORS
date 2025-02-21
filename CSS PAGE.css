@@ -1,0 +1,124 @@
+<style class="css">
+* {
+    box-sizing: border-box;
+    margin: 5;
+    padding: 5;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #09fbe7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250vh;
+  }
+  
+  .container {
+    background-color: #f39595;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .control-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .temperature-display {
+    text-align: center;
+  }
+  
+  #temp-slider {
+    width: 80%;
+  }
+  
+  #temp-value {
+    font-weight: bold; 
+    color: #007BFF;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .status {
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  #suit-status {
+    font-weight: bold;
+    color: #28a745;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.battery {
+    width: 250px;
+    height: 80px;
+    border: 2px solid #000;
+    margin: 20px auto;
+    position: relative;
+    border-radius: 5px;
+    background-color: #e0e0e0;
+}
+
+.battery-level {
+    width: 100%;
+    height: 100%;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.battery-text {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+</style>
