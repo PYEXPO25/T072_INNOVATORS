@@ -53,7 +53,7 @@ On Windows: bash venv\Scripts\activate
 
 On macOS/Linux: bash source venv/bin/activate
 
-Install dependencies: bash pip install -r arduino.txt
+Install dependencies: bash pip install -r arduino.ino
 
 Navigate to source bash cd source
 
