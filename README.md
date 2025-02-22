@@ -1,6 +1,5 @@
 
-Pyexpo LOGO:
-     https://github.com/kailai-13/PYEXPO-DEMO-REPO/blob/main/media/pyexpo-logo.png?raw=true)
+    ![Image](https://github.com/user-attachments/assets/5b481956-c542-4ed7-8fc2-e313c8bcaa58)
 
 Problem Statement:
 1.In various environments , maintaining a comfortable Body temperature is
