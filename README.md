@@ -13,12 +13,14 @@ Problem Statement ID :PYS120
 Overview:" Observe the external temperature and the body temperature and
  provides the optimum temperature to the body.
   The temperature of the suit can be set both manually or by the
- detected statement
+ detected statement"
 
 Team Members:6
 
 Team ID – T072
-Team members along with their roles.
+
+Team members along with their roles:
+
 AKSHAYA.M - FRONTENED
 BHAAVANA.K- SET UP OF THE HARD WARE 
 MANISHA BHARATHI.V-SOFTWARE MANAGED
