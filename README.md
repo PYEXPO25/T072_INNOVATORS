@@ -1,6 +1,6 @@
 
 Pyexpo LOGO:
-      media/pyexpo-logo.png
+     https://github.com/kailai-13/PYEXPO-DEMO-REPO/blob/main/media/pyexpo-logo.png?raw=true)
 
 Problem Statement:
 1.In various environments , maintaining a comfortable Body temperature is
@@ -21,12 +21,12 @@ Team ID – T072
 
 Team members along with their roles:
 
-AKSHAYA.M - FRONTENED
-BHAAVANA.K- SET UP OF THE HARD WARE 
-MANISHA BHARATHI.V-SOFTWARE MANAGED
-KIRUTHIKA.S - THEORATICAL STUDY OF THE SOLUTION
-HARINI.N- STUDY OF HARDWARE
-DHIVISHA.R- SET UP OF THE HARDWARE
+AKSHAYA.M - FRONTENED,
+BHAAVANA.K- SET UP OF THE HARD WARE,
+MANISHA BHARATHI.V-SOFTWARE MANAGED,
+KIRUTHIKA.S - THEORATICAL STUDY OF THE SOLUTION,
+HARINI.N- STUDY OF HARDWARE,
+DHIVISHA.R- SET UP OF THE HARDWARE.
 
 Team Photo:
 https://drive.google.com/file/d/1rK69oUDlvcCJ0RKtzGsXGBtB0J4R9108/view?usp=drivesdk
