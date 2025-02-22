@@ -70,6 +70,11 @@ Resources:
 
 🎥 Project Video:
 https://drive.google.com/file/d/1rolseawjwxCy5KTJ_XlFqyeBAbdNgCU5/view?usp=drivesdk
+📹 YouTube Link:
+https://youtu.be/tYdTyCylN3U?si=iUJ9zs7dh77m4ZM6
+
+
+
 
 
 
